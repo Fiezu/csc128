@@ -1,2 +1,2 @@
-# csc128
+# CSC128
 Final project CSC128
